@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -175,7 +175,7 @@ Execute the programs and publish them.
     <footer>Thank you for visiting us</footer>
 </body>
 </html>
-
+```
 ## OUTPUT
 ![dfdggfdf](./image.png)
 
